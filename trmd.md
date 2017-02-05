@@ -1,17 +1,4 @@
-1. "subject_id" - An integer ranging from 1 to 30 identifying which subject the
-   measurements came from.
-2. "activity" - A string indicating which of the six activities was being 
-   performed ("LAYING", "SITTING", "STANDING", "WALKING", "WALKING_DOWNSTAIRS",
-   "WALKING_UPSTAIRS").
-3. "fBodyAccelerationJerkMeanXAxisAverage" - Mean of the fBodyAccJerk-mean()-X
-   measurement in the original study.
-4. "fBodyAccelerationJerkMeanYAxisAverage" - Mean of the fBodyAccJerk-mean()-Y
-   measurement in the original study.
-
-
-subjects                                              -   int       - range 1-30 identify a subject which peformed the activity  
-
-activities                                            -   chr       - range "LAYING", "SITTING", "STANDING", "WALKING", "WALKING-DOWNSTAIRS", "WALKING-UPSTAIRS" identify which activity was performed by subject.
+WALKING-UPSTAIRS" identify which activity was performed by subject.
 
 timeBodyAccelerometer-mean()-X                        -   num       - the average of original timeBodyAccelerometer-mean()-X variable for each activity and each subject
 
