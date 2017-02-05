@@ -2,7 +2,7 @@
 
 subjects                                              -   int       - range 1-30 identify a subject which peformed the activity  
 
-activities                                            -   chr       - range "LAYING", "SITTING", "STANDING", "WALKING", "WALKING-DOWNSTAIRS", "WALKING-UPSTAIRS" identify which activity was performed by subject
+activities                                            -   chr       - range "LAYING", "SITTING", "STANDING", "WALKING", "WALKING-DOWNSTAIRS", "WALKING-UPSTAIRS" identify which activity was performed by subject.
 
 timeBodyAccelerometer-mean()-X                        -   num       - the average of original timeBodyAccelerometer-mean()-X variable for each activity and each subject
 
