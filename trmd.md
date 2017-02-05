@@ -1,4 +1,13 @@
-### Description of the Variables in the tidy dataset
+1. "subject_id" - An integer ranging from 1 to 30 identifying which subject the
+   measurements came from.
+2. "activity" - A string indicating which of the six activities was being 
+   performed ("LAYING", "SITTING", "STANDING", "WALKING", "WALKING_DOWNSTAIRS",
+   "WALKING_UPSTAIRS").
+3. "fBodyAccelerationJerkMeanXAxisAverage" - Mean of the fBodyAccJerk-mean()-X
+   measurement in the original study.
+4. "fBodyAccelerationJerkMeanYAxisAverage" - Mean of the fBodyAccJerk-mean()-Y
+   measurement in the original study.
+
 
 subjects                                              -   int       - range 1-30 identify a subject which peformed the activity  
 
